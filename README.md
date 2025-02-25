@@ -10,6 +10,7 @@ This assignment covers fundamental concepts of Python functions, including built
 This assignment focuses on file operations and exception handling in Python. It includes various exercises demonstrating essential file handling techniques such as reading from a file, writing to a file, copying file contents, and counting words in a file. Additionally, it covers exception handling with try-except blocks to manage common errors like file not found, invalid user input, and division by zero. Users will also practice handling lists of integers, validating input, and computing averages with proper error management. These exercises enhance understanding of working with files and handling exceptions effectively in Python.
 ## Assignment_6_Part_Assignment_OOPs
 This assignment includes two Python programs demonstrating object-oriented programming (OOP) principles. The first program manages a university course catalog using a base class Course and two subclasses, CoreCourse and ElectiveCourse, which extend the base class with additional attributes. The second program defines an Employee class inside a module named employee, with attributes name and salary along with getter methods. The program demonstrates importing and using the module to create and display employee details. These implementations showcase inheritance, encapsulation, and modular programming in Python.
-
+## Assignment_7_Numpy_Pandas
+This assignment covers fundamental exercises using NumPy and Pandas for data manipulation and analysis. It includes tasks such as creating and reshaping NumPy arrays, extracting specific elements, working with Pandas Series, creating and modifying DataFrames, filtering data based on conditions, and handling CSV files. 
 
 
