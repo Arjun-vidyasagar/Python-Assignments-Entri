@@ -6,7 +6,8 @@ This assignment covers fundamental data structures in Python, including lists, d
 This assignment contains solutions to various Python exercises covering topics like conditionals, loops, and user input handling. The exercises include tasks such as printing the corresponding month from a number, calculating ticket prices based on age, calculating BMI, finding the greatest of three numbers, calculating factorials, reversing numbers, finding multiples, handling user input with loops, and printing patterns like FizzBuzz and number sequences. 
 ## Assignment_4_Python_Functions
 This assignment covers fundamental concepts of Python functions, including built-in functions, user-defined functions, and variable scope. It demonstrates the use of the len() function to find the length of a list and includes implementations of greet(name), which prints a greeting message, and find_maximum(numbers), which finds the maximum value in a list without using max(). The project also explains the difference between local and global variables through an example where both exist with the same name. Additionally, the calculate_area(length, width=5) function is implemented to show how default arguments work by calculating the area of a rectangle when the width is either provided or not.
-
+## Assignment_5_File_and_Exception_Handling
+This assignment focuses on file operations and exception handling in Python. It includes various exercises demonstrating essential file handling techniques such as reading from a file, writing to a file, copying file contents, and counting words in a file. Additionally, it covers exception handling with try-except blocks to manage common errors like file not found, invalid user input, and division by zero. Users will also practice handling lists of integers, validating input, and computing averages with proper error management. These exercises enhance understanding of working with files and handling exceptions effectively in Python.
 
 
 
