@@ -12,5 +12,5 @@ This assignment focuses on file operations and exception handling in Python. It 
 This assignment includes two Python programs demonstrating object-oriented programming (OOP) principles. The first program manages a university course catalog using a base class Course and two subclasses, CoreCourse and ElectiveCourse, which extend the base class with additional attributes. The second program defines an Employee class inside a module named employee, with attributes name and salary along with getter methods. The program demonstrates importing and using the module to create and display employee details. These implementations showcase inheritance, encapsulation, and modular programming in Python.
 ## Assignment_7_Numpy_Pandas
 This assignment covers fundamental exercises using NumPy and Pandas for data manipulation and analysis. It includes tasks such as creating and reshaping NumPy arrays, extracting specific elements, working with Pandas Series, creating and modifying DataFrames, filtering data based on conditions, and handling CSV files. 
-
-
+## Assignment_8_Python_Data_Visualization
+This assignment covers Python scripts demonstrating various data visualization techniques using Matplotlib and Seaborn. It includes a line plot showing city population growth over time, a scatter plot visualizing the relationship between hours studied and test scores, and a bar chart representing monthly sales. These visualizations help in understanding trends, correlations, and comparisons using simple yet effective graphical representations.
